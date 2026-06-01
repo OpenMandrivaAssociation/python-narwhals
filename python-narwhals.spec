@@ -13,7 +13,7 @@ Source0:	https://github.com/narwhals-dev/narwhals/archive/v%{version}/%{name}-%{
 BuildSystem:	python
 BuildArch:	noarch
 BuildRequires:	python%{pyver}dist(pip)
-BuildRequires:	python%{pyver}dist(hatchling)
+BuildRequires:	python%{pyver}dist(uv-build)
 BuildRequires:	python%{pyver}dist(wheel)
 
 %description

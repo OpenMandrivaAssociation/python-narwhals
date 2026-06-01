@@ -1,7 +1,7 @@
 %define module narwhals
 
 Name:		python-narwhals
-Version:	2.21.2
+Version:	2.22.0
 Release:	1
 Summary:	Lightweight compatibility layer between dataframe libraries
 License:	MIT
